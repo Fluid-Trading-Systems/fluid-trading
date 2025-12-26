@@ -1,0 +1,27 @@
+This section documents the purpose, logic, and use-cases of indicators created by Fluid Trading Systems.
+
+Indicators here are intended to support analysis and decision-making by visualising:
+- structure
+- volatility
+- trend conditions
+- risk context
+
+---
+
+## What You’ll Find
+
+- Indicator concepts and philosophy
+- How each tool is intended to be used
+- Inputs and settings explained
+- Example scenarios (visuals over time)
+
+## Design Principles
+
+All indicators are built around these principles:
+
+- Clarity over complexity  
+- Adaptability to market conditions  
+- Risk-aware decision support  
+- Minimal noise, maximum context  
+
+Indicators are designed to **support thinking**, not replace it.
