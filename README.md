@@ -1,4 +1,4 @@
-# fluid-trading
+# Fluid-trading
 Educational notes on market structure, volatility, and risk management.
 This repository contains educational material focused on understanding
 market structure, volatility, and risk management.
